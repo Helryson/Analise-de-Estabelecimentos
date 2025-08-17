@@ -1,0 +1,164 @@
+uf,cnae_fiscal_principal,atividade_economica,quantidade
+AC,4721102,Padaria e confeitaria com predominância de revenda,5
+AC,5611201,Restaurantes e similares,11
+AC,5611203,"Lanchonetes, casas de chá, de sucos e similares",17
+AC,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",7
+AC,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",6
+AC,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,10
+AL,4721102,Padaria e confeitaria com predominância de revenda,14
+AL,5611201,Restaurantes e similares,69
+AL,5611203,"Lanchonetes, casas de chá, de sucos e similares",79
+AL,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",7
+AL,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",5
+AL,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,34
+AM,4721102,Padaria e confeitaria com predominância de revenda,20
+AM,5611201,Restaurantes e similares,112
+AM,5611203,"Lanchonetes, casas de chá, de sucos e similares",72
+AM,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",3
+AM,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",13
+AM,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,48
+AP,4721102,Padaria e confeitaria com predominância de revenda,3
+AP,5611201,Restaurantes e similares,17
+AP,5611203,"Lanchonetes, casas de chá, de sucos e similares",11
+AP,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",2
+AP,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",4
+AP,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,10
+BA,4721102,Padaria e confeitaria com predominância de revenda,114
+BA,5611201,Restaurantes e similares,351
+BA,5611203,"Lanchonetes, casas de chá, de sucos e similares",280
+BA,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",62
+BA,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",58
+BA,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,265
+CE,4721102,Padaria e confeitaria com predominância de revenda,31
+CE,5611201,Restaurantes e similares,256
+CE,5611203,"Lanchonetes, casas de chá, de sucos e similares",185
+CE,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",34
+CE,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",53
+CE,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,131
+DF,4721102,Padaria e confeitaria com predominância de revenda,22
+DF,5611201,Restaurantes e similares,110
+DF,5611203,"Lanchonetes, casas de chá, de sucos e similares",128
+DF,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",17
+DF,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",27
+DF,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,74
+ES,4721102,Padaria e confeitaria com predominância de revenda,34
+ES,5611201,Restaurantes e similares,130
+ES,5611203,"Lanchonetes, casas de chá, de sucos e similares",174
+ES,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",72
+ES,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",51
+ES,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,123
+EX,5611203,"Lanchonetes, casas de chá, de sucos e similares",1
+GO,4721102,Padaria e confeitaria com predominância de revenda,52
+GO,5611201,Restaurantes e similares,283
+GO,5611203,"Lanchonetes, casas de chá, de sucos e similares",279
+GO,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",79
+GO,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",45
+GO,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,170
+MA,4721102,Padaria e confeitaria com predominância de revenda,17
+MA,5611201,Restaurantes e similares,110
+MA,5611203,"Lanchonetes, casas de chá, de sucos e similares",60
+MA,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",12
+MA,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",26
+MA,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,41
+MG,4721102,Padaria e confeitaria com predominância de revenda,182
+MG,5611201,Restaurantes e similares,609
+MG,5611203,"Lanchonetes, casas de chá, de sucos e similares",797
+MG,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",344
+MG,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",175
+MG,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,544
+MS,4721102,Padaria e confeitaria com predominância de revenda,19
+MS,5611201,Restaurantes e similares,78
+MS,5611203,"Lanchonetes, casas de chá, de sucos e similares",97
+MS,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",25
+MS,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",19
+MS,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,86
+MT,4721102,Padaria e confeitaria com predominância de revenda,24
+MT,5611201,Restaurantes e similares,119
+MT,5611203,"Lanchonetes, casas de chá, de sucos e similares",165
+MT,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",38
+MT,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",35
+MT,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,87
+PA,4721102,Padaria e confeitaria com predominância de revenda,30
+PA,5611201,Restaurantes e similares,166
+PA,5611203,"Lanchonetes, casas de chá, de sucos e similares",122
+PA,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",33
+PA,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",45
+PA,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,88
+PB,4721102,Padaria e confeitaria com predominância de revenda,22
+PB,5611201,Restaurantes e similares,77
+PB,5611203,"Lanchonetes, casas de chá, de sucos e similares",92
+PB,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",14
+PB,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",14
+PB,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,70
+PE,4721102,Padaria e confeitaria com predominância de revenda,38
+PE,5611201,Restaurantes e similares,217
+PE,5611203,"Lanchonetes, casas de chá, de sucos e similares",208
+PE,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",31
+PE,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",29
+PE,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,128
+PI,4721102,Padaria e confeitaria com predominância de revenda,10
+PI,5611201,Restaurantes e similares,75
+PI,5611203,"Lanchonetes, casas de chá, de sucos e similares",64
+PI,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",8
+PI,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",11
+PI,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,38
+PR,4721102,Padaria e confeitaria com predominância de revenda,107
+PR,5611201,Restaurantes e similares,372
+PR,5611203,"Lanchonetes, casas de chá, de sucos e similares",473
+PR,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",150
+PR,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",85
+PR,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,331
+RJ,4721102,Padaria e confeitaria com predominância de revenda,159
+RJ,5611201,Restaurantes e similares,659
+RJ,5611203,"Lanchonetes, casas de chá, de sucos e similares",707
+RJ,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",199
+RJ,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",106
+RJ,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,809
+RN,4721102,Padaria e confeitaria com predominância de revenda,15
+RN,5611201,Restaurantes e similares,99
+RN,5611203,"Lanchonetes, casas de chá, de sucos e similares",80
+RN,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",13
+RN,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",10
+RN,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,57
+RO,4721102,Padaria e confeitaria com predominância de revenda,12
+RO,5611201,Restaurantes e similares,48
+RO,5611203,"Lanchonetes, casas de chá, de sucos e similares",60
+RO,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",5
+RO,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",8
+RO,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,23
+RR,4721102,Padaria e confeitaria com predominância de revenda,1
+RR,5611201,Restaurantes e similares,16
+RR,5611203,"Lanchonetes, casas de chá, de sucos e similares",17
+RR,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",5
+RR,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",8
+RR,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,5
+RS,4721102,Padaria e confeitaria com predominância de revenda,87
+RS,5611201,Restaurantes e similares,323
+RS,5611203,"Lanchonetes, casas de chá, de sucos e similares",369
+RS,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",119
+RS,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",68
+RS,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,265
+SC,4721102,Padaria e confeitaria com predominância de revenda,56
+SC,5611201,Restaurantes e similares,231
+SC,5611203,"Lanchonetes, casas de chá, de sucos e similares",337
+SC,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",107
+SC,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",66
+SC,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,263
+SE,4721102,Padaria e confeitaria com predominância de revenda,7
+SE,5611201,Restaurantes e similares,43
+SE,5611203,"Lanchonetes, casas de chá, de sucos e similares",45
+SE,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",8
+SE,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",3
+SE,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,29
+SP,4721102,Padaria e confeitaria com predominância de revenda,357
+SP,5611201,Restaurantes e similares,1565
+SP,5611203,"Lanchonetes, casas de chá, de sucos e similares",1944
+SP,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",527
+SP,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",301
+SP,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,1690
+TO,4721102,Padaria e confeitaria com predominância de revenda,7
+TO,5611201,Restaurantes e similares,58
+TO,5611203,"Lanchonetes, casas de chá, de sucos e similares",53
+TO,5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento",13
+TO,5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",15
+TO,5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,23
